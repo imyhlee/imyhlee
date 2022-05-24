@@ -1,6 +1,6 @@
 ### <h1>👋 Hello! Nice to see you :heart_eyes: </h1>
-<h2> 
-  </h2>
+<h2> Welcome to my page:bangbang: </h2>
+<h2>I'm from 🇰🇷 </h2>
 <!--
 **imyhlee/imyhlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
