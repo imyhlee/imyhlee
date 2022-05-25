@@ -13,6 +13,7 @@
 <a href = "https://github.com/imyhlee"><img alt="GitHub" src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
 <a href = "https://github.com/imyhlee"><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> </a>
 <a href = "https://github.com/imyhlee"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> </a>
+<a href = "https://github.com/imyhlee"><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=black"> </a>
 
 <a href="https://instagram.com/alpox.dev">
     <img 
