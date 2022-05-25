@@ -30,7 +30,7 @@
 
 <a href="https://www.facebook.com/profile.php?id=100005874251580">
     <img 
-        src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza"/>
+        src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/"/>
 </a>
 
 
