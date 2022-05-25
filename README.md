@@ -1,12 +1,12 @@
-### <h1>:wave: Hello:bangbang: Nice to see you :heart_eyes: </h1>
+### <h1>:wave: Hello :bangbang: Nice to see you :heart_eyes: </h1>
 <h2> Welcome to my page </h2>
-<h2>I'm from Seoul,🇰🇷, currently living in a university dormitory:house_with_garden: </h2>
+<h2>I'm from Seoul,🇰🇷, currently living in a university dormitory :house_with_garden: </h2>
 
 <p>
 </p>
   
   <br/>
-  <h2>What I'm Studying:books:</h2>
+  <h2>What I'm Studying :books:</h2>
   
  <a href = "https://github.com/imyhlee"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
 <a href = "https://github.com/imyhlee"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> </a>
@@ -20,7 +20,7 @@
 </p>
   
   <br/>
-  <h2>Where to find me:mag:</h2>
+  <h2>Where to find me :mag:</h2>
 
 <a href="https://instagram.com/alpox.dev">
     <img 
