@@ -22,9 +22,9 @@
   <br/>
   <h2>Where to find me :mag:</h2>
 
-<a href="https://instagram.com/alpox.dev">
+<a href="https://instagram.com/yunhoeyo.dev">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/yunhoeyo.dev/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
